@@ -24,18 +24,3 @@ group :development do
   gem 'rails_layout'
 end
 
-=begin
-	
-	desc of "extra" gems we are learning about"
-Here are gems we’ll add to the Gemfile:
-
-foundation-rails - front-end framework
-gibbon - access to the MailChimp API
-high_voltage - for static pages like “about”
-simple_form - forms made easy
-We’ll also add utilities that make development easier:
-
-better_errors - helps when things go wrong
-quiet_assets - suppresses distracting messages in the log
-rails_layout - generates files for an application layout
-=end
